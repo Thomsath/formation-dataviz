@@ -6,3 +6,7 @@ div#chart {
 .stick-div {
     margin: 15px;
 }
+
+.stick {
+    height: 50px;
+}
