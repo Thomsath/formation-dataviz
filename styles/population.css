@@ -1,0 +1,8 @@
+div#chart {
+    display: flex;
+    flex-direction: row;
+}
+
+.stick-div {
+    margin: 15px;
+}
